@@ -1,0 +1,3 @@
+[submodule "practice-project"]
+	path = practice-project
+	url = https://github.com/nsatwik/practice-project.git
